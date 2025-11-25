@@ -10,4 +10,3 @@ services:
     container_name: my-container
     environment:
       - NODE_ENV=development
-      - CHOKIDAR_USEPOLLING=true 
